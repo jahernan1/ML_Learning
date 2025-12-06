@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.16)  5 DEC 2025 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.16)  6 DEC 2025 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -767,7 +767,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 116
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<course_img/neural_network_ex.png, id=53, 1189.44376pt x 614.295pt>
+<course_img/neural_network_ex.png, id=49, 1189.44376pt x 614.295pt>
 File: course_img/neural_network_ex.png Graphic file (type png)
 <use course_img/neural_network_ex.png>
 Package pdftex.def Info: course_img/neural_network_ex.png  used on input line 1
@@ -783,7 +783,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [2 <./course_img/neural_network_ex.png>]
-<course_img/face_recognition_ex.png, id=62, 1298.8525pt x 653.44125pt>
+<course_img/face_recognition_ex.png, id=58, 1298.8525pt x 653.44125pt>
 File: course_img/face_recognition_ex.png Graphic file (type png)
 <use course_img/face_recognition_ex.png>
 Package pdftex.def Info: course_img/face_recognition_ex.png  used on input line
@@ -799,7 +799,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3 <./course_img/face_recognition_ex.png>]
-<course_img/complex_NN_ex.png, id=71, 1286.8075pt x 527.9725pt>
+<course_img/complex_NN_ex.png, id=67, 1286.8075pt x 527.9725pt>
 File: course_img/complex_NN_ex.png Graphic file (type png)
 <use course_img/complex_NN_ex.png>
 Package pdftex.def Info: course_img/complex_NN_ex.png  used on input line 165.
@@ -814,7 +814,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4 <./course_img/complex_NN_ex.png>]
-<course_img/hadwritten_NN_ex.png, id=81, 1307.88625pt x 642.4pt>
+<course_img/hadwritten_NN_ex.png, id=77, 1307.88625pt x 642.4pt>
 File: course_img/hadwritten_NN_ex.png Graphic file (type png)
 <use course_img/hadwritten_NN_ex.png>
 Package pdftex.def Info: course_img/hadwritten_NN_ex.png  used on input line 18
@@ -829,19 +829,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5 <./course_img/hadwritten_NN_ex.png>] (build/course_notes.aux)
+[5 <./course_img/hadwritten_NN_ex.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6] (build/course_notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `course_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 5934DA28FF9F8FAEA64E63D407006A8E;1507.
+
+
+Package rerunfilecheck Warning: File `course_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `course_notes.out':
+(rerunfilecheck)             Before: 22BBBC9E871EAA92FDB9088160C662DE;1369
+(rerunfilecheck)             After:  5537F70EB8E1B4DE0C6FC7177909BB5A;1579.
  ) 
 Here is how much of TeX's memory you used:
  23365 strings out of 474116
- 439832 string characters out of 5743682
+ 439817 string characters out of 5743682
  1939187 words of memory out of 5000000
- 45363 multiletter control sequences out of 15000+600000
+ 45362 multiletter control sequences out of 15000+600000
  565803 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,11n,107p,454b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -856,10 +872,10 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
 texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on build/course_notes.pdf (5 pages, 1371799 bytes).
+Output written on build/course_notes.pdf (6 pages, 1372259 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
