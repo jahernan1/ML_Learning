@@ -70,10 +70,12 @@ stock-price-predictor/
 - Scaled inputs and inverse-transformed predictions
 - Loss curves and prediction plots
 
+---
+
 ## Installation
 
 Clone the repository:
-`git clone https://github.com/yourusername/stock-price-predictor.git
+`git clone https://github.com/jahernan1/stock-price-predictor.git
 cd stock-price-predictor`
 
 Install dependencies:
@@ -98,7 +100,7 @@ LSTM model:
 | Model |	Mean Absolute Error (MAE) |
 | :---- | :------------------------ |
 | Random Forest |	~1–3 USD |
-| LSTM | ~1–2 USD |
+| LSTM          | ~1–2 USD |
 
 Both models output prediction plots comparing true vs predicted closing prices.
 
